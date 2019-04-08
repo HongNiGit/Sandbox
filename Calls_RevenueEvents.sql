@@ -1,4 +1,4 @@
-CREATE TABLE [Snap].[Calls_RevenueEvents]
+CREATE TABLE [Snap].[CallsEvents]
 (
 	[EDW_UTCDate] [datetime] NULL,
 	[RevenueEventID] [bigint] NOT NULL,
